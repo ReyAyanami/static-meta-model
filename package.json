@@ -1,0 +1,22 @@
+{
+  "name": "static-meta-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schemas/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReyAyanami/static-meta-model.git"
+  },
+  "author": "Nick Nogai (ReyAyanami)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ReyAyanami/static-meta-model/issues"
+  },
+  "homepage": "https://github.com/ReyAyanami/static-meta-model#readme",
+  "devDependencies": {
+    "reflect-metadata": "^0.1.8"
+  }
+}
