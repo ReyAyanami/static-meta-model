@@ -1,5 +1,5 @@
-import User from './user';
-import Role from './role';
+import User from './models/user';
+import Role from './models/role';
 
 const user = new User();
 const role = new Role();

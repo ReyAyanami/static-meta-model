@@ -8,6 +8,6 @@
         "emitDecoratorMetadata": true
     },
     "files": [
-        "schemas/main.ts"
+        "main.ts"
     ]
 }

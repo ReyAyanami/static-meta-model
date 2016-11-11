@@ -1,9 +1,9 @@
-import Model from './model';
+import Model from '../lib/model';
 import Permission from './permission';
 import {
   attr,
   relation
-} from './decorators';
+} from '../lib/decorators';
 
 class Role extends Model {
   @attr id: string;

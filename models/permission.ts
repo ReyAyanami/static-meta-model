@@ -1,5 +1,5 @@
-import Model from './model';
-import {attr} from './decorators';
+import Model from '../lib/model';
+import {attr} from '../lib/decorators';
 
 class Permission extends Model {
   @attr id: string;
