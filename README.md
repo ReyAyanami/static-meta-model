@@ -41,3 +41,5 @@ Take a look at that `query.add(Criteria.equal(User_.roles.permissions.name, role
 This is equal to `query.add(Criteria.equal('roles.permissions.name', rolePermissionName));`
 
 But in the first version we have type protection.
+
+test
